@@ -1,12 +1,12 @@
 # To-Do List for immobilier.bouake
-IMMOBILIER BOUAK�/ R�SIDENCE M Website
+IMMOBILIER BOUAKé/ RéSIDENCE M Website
 
 ## Project Overview
 - **Company Name:** immobilier.bouake
-IMMOBILIER BOUAK�/ R�SIDENCE M
+IMMOBILIER BOUAKé/ RéSIDENCE M
 - **Directory:** immobilier_bouake_immobilier_bouak_r_sidence_m
 - **Address/Contact:** 
-  - R�sidences meubl�es | vente de terrains | Maisons en location
+  - Résidences meublées | vente de terrains | Maisons en location
   - Confort garanti ?? 0748092323
   - Lehttps://chat.whatsapp.com/JVwKU
 - **Description:** 
@@ -26,7 +26,7 @@ IMMOBILIER BOUAK�/ R�SIDENCE M
 - [ ] Update package.json:
   - Name: immobilier-bouake-immobilier-bouak-r-sidence-m  - Version: 0.1.0- [ ] Update index.html:
   - Title: immobilier.bouake
-IMMOBILIER BOUAK�/ R�SIDENCE M  - Meta description: ...
+IMMOBILIER BOUAKé/ RéSIDENCE M  - Meta description: ...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -43,7 +43,7 @@ theme.extend.colors.primary to match the brand.
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
   - Replace the hero title with "immobilier.bouake
-IMMOBILIER BOUAK�/ R�SIDENCE M".
+IMMOBILIER BOUAKé/ RéSIDENCE M".
   - Update the subtitle with: "".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
