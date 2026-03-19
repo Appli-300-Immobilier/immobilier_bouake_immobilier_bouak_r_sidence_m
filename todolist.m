@@ -6,10 +6,9 @@ IMMOBILIER BOUAKé/ RéSIDENCE M Website
 IMMOBILIER BOUAKé/ RéSIDENCE M
 - **Directory:** immobilier_bouake_immobilier_bouak_r_sidence_m
 - **Address/Contact:** 
-  - Résidences meublées | vente de terrains | Maisons en location
-  - Confort garanti ?? 0748092323
-  - Lehttps://chat.whatsapp.com/JVwKU
-- **Description:** 
+  - Abidjan, Côte d'Ivoire
+  - +225 516 577 75
+- **Description::** 
 - **Social Media:** https://www.tiktok.com/@immobilier.bouake
 - **Logo Asset:** _To be sourced/created_
 

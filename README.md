@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **immobilier.bouake**
 * **Localisation :** Douala, Cameroun
-* **Contact :**  0748092323
+* **Contact :** +225 516 577 75
 * **Email :** contact@immobilierbouakeimmobilierbouakrsidencem.cm
 * **Social :** [Facebook](https://www.tiktok.com/@immobilier.bouake) | [WhatsApp](https://wa.me/2250748092323)
 
